@@ -1,12 +1,2 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+#Minesweeper
+Final AP Computer Science project written in Java. Remade the classic game from the ground up using an object-oriented framework and offering three different levels of difficulty. Utilized JButton to create an interactive interface in tandem with a recursive algorithm for the game to determine the location of the mines.
